@@ -1,0 +1,15 @@
+
+enum SortType {
+  BUBBLE='BUBBLE',
+  COCKTAIL='COCKTAIL',
+  INSERT='INSERT',
+  GNOME='GNOME',
+  HEAP='HEAP',
+  QUICK='QUICK',
+  MERGE='MERGE',
+  SELECTION='SELECTION',
+  SHELL='SHELL',
+  TIM='TIM',
+}
+
+export default SortType

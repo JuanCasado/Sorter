@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="sorter Class diagram" version="4">
+  <OBJECT>
+    <ID name="sorter Class diagram" mc="Standard.ClassDiagram" uid="e7ab0578-7b56-452b-a351-66db323d0fb1"/>
+    <PID name="sorter" mc="Standard.Package" uid="15ada73d-c69e-4acf-9910-c560eccab8d8"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">88</ATT>
+      <ATT name="UiData"><![CDATA[eJztU01P4zAQ/SuW73U/Qts9hCJIUIUIFLWAxAlN6qFrcOzKdqH59+s06S4tahQkBJc92R7Pe/P1JjxZZ5K8orFCq2PaZR1KTkbhJH3GuSOCexMlLl/iMdVmwTLNUQrNuICFgYwhF04bZh048cJQYobK2fI93zqNs9nmHZdvSjJ41ubxb9AOHYU3Ri/RuJwoyHwsCbleuRgc+L97kCusklArKWl7FLa3gA/Qmcsl0p0SenUl2MLfsrk2yEpsg/wisHPgyLfBztduik8No1x7igpJcO3i9MLnuLkWl6sSSQK23iu0XZZUV7xBCQ65z2Wvb1eFibwWlqJFoDgYziIJ1lZjITiEtNMf/moN0/6gddTvpS0I+t3WYMDToBfwzlParW+9Z3OXSr+pBFKUexnMnBFqQUdWG4eGbEKTqj1he+NZW5mWeKEinS21Fc7P5QB9A6rot5DcYMGQCFv0szoOIhKhXmxz97NFbODNp5NAjmZXi0HtOm0XiJd4y2TB4Ddoh/B7FuhzqJ9VnuAH5BCPWXL6cD59PDuNLsfTyd11/DUKabCM72f2Tz3vtHD0Xws/ooXbyc1Xi+Dg1x8LaJEF]]></ATT>
+      <ATT name="PreviewData"><![CDATA[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAGElEQVR4nGP4TxlgGNU/qn9U/6j+EaofAB8cJiE1IQRUAAAAAElFTkSuQmCC]]></ATT>
+      <ATT name="Name"><![CDATA[sorter Class diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="c94a78ee-a9d8-44e6-a28c-9b8bac19e7ff"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

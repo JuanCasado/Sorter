@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="SORTER" version="4">
+  <OBJECT>
+    <ID name="SORTER" mc="Infrastructure.DiagramSet" uid="936cf611-aa10-4714-a3fd-46daa14af2b2"/>
+    <PID name="SORTER" mc="Standard.Project" uid="dbc39e41-b5ce-4152-bd14-eb214d28c225"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[SORTER]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

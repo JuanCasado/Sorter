@@ -1,0 +1,25 @@
+{"next" : [
+
+{ "size": 200, "type": "LOCAL_DELAY", "save": false, "view": "LIST",   "sort": "MERGE",     "sortDirection": "MAX", "create": "RANDOM", "createDirection": "MIN", "next": []},
+{ "size": 150, "type": "LOCAL_DELAY", "save": false, "view": "LIST",   "sort": "QUICK",     "sortDirection": "MAX", "create": "RANDOM", "createDirection": "MIN", "next": []},
+{ "size": 100, "type": "LOCAL_DELAY", "save": false, "view": "LIST",   "sort": "SHELL",     "sortDirection": "MAX", "create": "RANDOM", "createDirection": "MIN", "next": []},
+{ "size":  80, "type": "LOCAL_DELAY", "save": false, "view": "LIST",   "sort": "INSERT",    "sortDirection": "MAX", "create": "RANDOM", "createDirection": "MIN", "next": []},
+{ "size":  80, "type": "LOCAL_DELAY", "save": false, "view": "LIST",   "sort": "SELECTION", "sortDirection": "MAX", "create": "RANDOM", "createDirection": "MIN", "next": []},
+{ "size":  50, "type": "LOCAL_DELAY", "save": false, "view": "LIST",   "sort": "BUBBLE",    "sortDirection": "MAX", "create": "RANDOM", "createDirection": "MIN", "next": []},
+{ "size": 120, "type": "LOCAL_DELAY", "save": false, "view": "LIST",   "sort": "TIM",       "sortDirection": "MAX", "create": "RANDOM", "createDirection": "MIN", "next": []},
+{ "size": 200, "type": "LOCAL_DELAY", "save": false, "view": "LIST",   "sort": "HEAP",      "sortDirection": "MAX", "create": "RANDOM", "createDirection": "MIN", "next": []},
+{ "size":  30, "type": "LOCAL_DELAY", "save": false, "view": "LIST",   "sort": "GNOME",     "sortDirection": "MAX", "create": "RANDOM", "createDirection": "MIN", "next": []},
+{ "size":  80, "type": "LOCAL_DELAY", "save": false, "view": "LIST",   "sort": "COCKTAIL",  "sortDirection": "MAX", "create": "RANDOM", "createDirection": "MIN", "next": []},
+
+{ "size": 200, "type": "LOCAL_DELAY", "save": false, "view": "MATRIX", "sort": "MERGE",     "sortDirection": "MAX", "create": "RANDOM", "createDirection": "MIN", "next": []},
+{ "size": 150, "type": "LOCAL_DELAY", "save": false, "view": "MATRIX", "sort": "QUICK",     "sortDirection": "MAX", "create": "RANDOM", "createDirection": "MIN", "next": []},
+{ "size": 100, "type": "LOCAL_DELAY", "save": false, "view": "MATRIX", "sort": "SHELL",     "sortDirection": "MAX", "create": "RANDOM", "createDirection": "MIN", "next": []},
+{ "size":  80, "type": "LOCAL_DELAY", "save": false, "view": "MATRIX", "sort": "INSERT",    "sortDirection": "MAX", "create": "RANDOM", "createDirection": "MIN", "next": []},
+{ "size":  80, "type": "LOCAL_DELAY", "save": false, "view": "MATRIX", "sort": "SELECTION", "sortDirection": "MAX", "create": "RANDOM", "createDirection": "MIN", "next": []},
+{ "size":  50, "type": "LOCAL_DELAY", "save": false, "view": "MATRIX", "sort": "BUBBLE",    "sortDirection": "MAX", "create": "RANDOM", "createDirection": "MIN", "next": []},
+{ "size": 120, "type": "LOCAL_DELAY", "save": false, "view": "MATRIX", "sort": "TIM",       "sortDirection": "MAX", "create": "RANDOM", "createDirection": "MIN", "next": []},
+{ "size": 200, "type": "LOCAL_DELAY", "save": false, "view": "MATRIX", "sort": "HEAP",      "sortDirection": "MAX", "create": "RANDOM", "createDirection": "MIN", "next": []},
+{ "size":  30, "type": "LOCAL_DELAY", "save": false, "view": "MATRIX", "sort": "GNOME",     "sortDirection": "MAX", "create": "RANDOM", "createDirection": "MIN", "next": []},
+{ "size":  80, "type": "LOCAL_DELAY", "save": false, "view": "MATRIX", "sort": "COCKTAIL",  "sortDirection": "MAX", "create": "RANDOM", "createDirection": "MIN", "next": []}
+
+]}

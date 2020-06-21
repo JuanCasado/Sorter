@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="sorter" version="4">
+  <OBJECT>
+    <ID name="sorter" mc="Standard.Package" uid="15ada73d-c69e-4acf-9910-c560eccab8d8"/>
+    <PID name="SORTER" mc="Standard.Project" uid="dbc39e41-b5ce-4152-bd14-eb214d28c225"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[sorter]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="UseCase" mc="Standard.Package" uid="33f0e529-9eab-4d7a-9ce6-bb76fe365bac"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="sorter Use Case diagram" mc="Standard.UseCaseDiagram" uid="3f5f741c-d17a-4dee-8c1b-4c9c64de51cc"/>
+        <COMPID name="sorter Class diagram" mc="Standard.ClassDiagram" uid="e7ab0578-7b56-452b-a351-66db323d0fb1"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

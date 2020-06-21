@@ -1,0 +1,40 @@
+
+version: '3.7'
+
+services:
+
+  sorter:
+    image: sorter:latest
+    container_name: sorter
+    hostname: sorter
+    restart: always
+    build:
+      context: ./
+      dockerfile: Docker/sorter.Dockerfile
+    depends_on: 
+      - ws-sorter
+      - rest-sorter
+    ports:
+      - 80:80
+
+  ws-sorter:
+    image: ws-sorter:latest
+    container_name: ws-sorter
+    hostname: ws-sorter
+    restart: always
+    build:
+      context: ./
+      dockerfile: Docker/ws-sorter.Dockerfile
+    ports:
+      - 8081:8081
+
+  rest-sorter:
+    image: rest-sorter:latest
+    container_name: rest-sorter
+    hostname: rest-sorter
+    build:
+      context: ./
+      dockerfile: Docker/rest-sorter.Dockerfile
+    ports:
+      - 8080:8080
+

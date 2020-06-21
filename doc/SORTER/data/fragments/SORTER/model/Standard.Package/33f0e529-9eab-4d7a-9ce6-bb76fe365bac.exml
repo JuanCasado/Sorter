@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="UseCase" version="4">
+  <OBJECT>
+    <ID name="UseCase" mc="Standard.Package" uid="33f0e529-9eab-4d7a-9ce6-bb76fe365bac"/>
+    <PID name="sorter" mc="Standard.Package" uid="15ada73d-c69e-4acf-9910-c560eccab8d8"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[UseCase]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Actor" mc="Standard.Actor" uid="e94eb1dc-774e-4fc7-a052-98197be710f1"/>
+        <COMPID name="Create Data" mc="Standard.UseCase" uid="36a76dd2-1b85-44fb-bb02-98ec894d206e"/>
+        <COMPID name="Sort Data" mc="Standard.UseCase" uid="9f59c34c-71d7-47a0-b306-0b9fedcc6d07"/>
+        <COMPID name="View Data" mc="Standard.UseCase" uid="feb253fa-ed56-4b96-841e-01325d113b60"/>
+        <COMPID name="Perform Simulation" mc="Standard.UseCase" uid="5d9f638d-dc00-43b7-ab9c-d5a51c688fa6"/>
+        <COMPID name="Random Data" mc="Standard.UseCase" uid="63dd2c50-f940-4db4-94a7-521abc9e4868"/>
+        <COMPID name="Ordered Data" mc="Standard.UseCase" uid="a871a5fc-f74d-4842-9d8f-f6a3560972d6"/>
+        <COMPID name="Partially-Ordered Data" mc="Standard.UseCase" uid="0f51e5ce-605a-4a0f-b37c-2063d11d4f60"/>
+        <COMPID name="Local Simulation" mc="Standard.UseCase" uid="45bfa4c7-5e37-4114-914b-a423c827cbbf"/>
+        <COMPID name="Remote Simulation" mc="Standard.UseCase" uid="04c8f5a4-48be-4fe1-8e8a-4d8cdb595d2e"/>
+        <COMPID name="Bubble Sort" mc="Standard.UseCase" uid="9c76aecb-3436-44f5-9e55-fa915c5e8fca"/>
+        <COMPID name="Insert Sort" mc="Standard.UseCase" uid="2d84e55d-ea32-424c-89b0-01c8d350d676"/>
+        <COMPID name="Merge Sort" mc="Standard.UseCase" uid="561f5a81-4718-4d33-adc0-fcd11a62ea15"/>
+        <COMPID name="Quick Sort" mc="Standard.UseCase" uid="bded362d-5922-4459-a876-93b3f040d07e"/>
+        <COMPID name="Heap Sort" mc="Standard.UseCase" uid="92c3e438-c0f4-4840-bca5-b09d8ba9739f"/>
+        <COMPID name="Shell Sort" mc="Standard.UseCase" uid="9bd039c6-f07b-4a8c-96b0-0f53de7c543e"/>
+        <COMPID name="Matrix View" mc="Standard.UseCase" uid="7104fd5d-55f8-43b0-b61d-df4f23d8134f"/>
+        <COMPID name="Line View" mc="Standard.UseCase" uid="6b89a8c4-a7a4-477f-a17b-ac72d7c497ac"/>
+        <COMPID name="Progress View" mc="Standard.UseCase" uid="6d4b5d9d-edac-4c80-af49-2dd36e64c940"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
